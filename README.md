@@ -2,7 +2,7 @@
 
 CSS - Basic (developer's dignity)
 
-> - [ ] [Chapter 1 - CSS](https://github.com/ding-co/css-basic/tree/main/code/ch01)
+> - [x] [Chapter 1 - CSS](https://github.com/ding-co/css-basic/tree/main/code/ch01)
 
 > - [ ] [Chapter 2 - CSS Property](https://github.com/ding-co/css-basic/tree/main/code/ch02)
 
